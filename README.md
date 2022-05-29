@@ -19,3 +19,9 @@ The dataset contains 2000 rows and 2 columns 'Review' and 'Sentiment' and there 
 |accuracy      |         |          |   0.82 |  400 |
 | macro avg    |  0.82   |     0.82 |   0.82 |  400 |
 | weighted avg |  0.82   |    0.82  |   0.82 |  400 |
+
+
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
