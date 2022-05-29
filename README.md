@@ -2,7 +2,7 @@
 ## Objective 
 Sentiment analysis on a set of movie reviews given by reviewers and try to understand what was the overall reaction of reviewers i.e. whether it is positive or negative.
 
-## About Dataset
+## About the Dataset
 The dataset contains 2000 rows and 2 columns 'Review' and 'Sentiment' and there are only two classes 'pos'(i.e. positive) and 'neg'(i.e. negative). The frequency of each class is 1000.
 
 ## Steps involved in sentiment analysis
