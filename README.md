@@ -5,6 +5,8 @@ Sentiment analysis on a set of movie reviews given by reviewers and try to under
 ## About the Dataset
 The dataset contains 2000 rows and 2 columns 'Review' and 'Sentiment' and there are only two classes 'pos'(i.e. positive) and 'neg'(i.e. negative). The frequency of each class is 1000.
 
+## Programming Language Used: Python
+
 ## Steps involved in sentiment analysis
 1. Data Preprocessing
 2. TF-IDF Vectorization
