@@ -13,15 +13,9 @@ The dataset contains 2000 rows and 2 columns 'Review' and 'Sentiment' and there 
 ## Classification Report
 |    |precision | recall | f1-score | support|
 | ---| ---      | ---    | ---      | ---    |
-
 | 0  |   0.85   | 0.79   |   0.82   |   201  |
 | 1  |   0.80   | 0.86   |   0.83   |   199  |
 |accuracy      |         |          |   0.82 |  400 |
 | macro avg    |  0.82   |     0.82 |   0.82 |  400 |
 | weighted avg |  0.82   |    0.82  |   0.82 |  400 |
 
-
-| Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
